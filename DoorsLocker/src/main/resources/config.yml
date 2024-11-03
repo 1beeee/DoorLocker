@@ -1,0 +1,42 @@
+items:
+  key_1:
+    material: TRIPWIRE_HOOK
+    name: "&#a2fa37Ключ (Ур. 1)"
+    lore:
+      - ""
+      - " &fОбычный ключ "
+      - ""
+    custom_model_data: 1
+  key_2:
+    material: TRIPWIRE_HOOK
+    name: "&#37b2faКлюч (Ур. 2)"
+    lore:
+      - ""
+      - " &fРедкий ключ "
+      - ""
+    custom_model_data: 1
+  key_3:
+    material: TRIPWIRE_HOOK
+    name: "&#cc37faКлюч (Ур. 3)"
+    lore:
+      - ""
+      - " &fЭпический ключ "
+      - ""
+    custom_model_data: 1
+  key_4:
+    material: TRIPWIRE_HOOK
+    name: "&#fc144eКлюч (Ур. 4)"
+    lore:
+      - ""
+      - " &fЛегендарный ключ "
+      - ""
+    custom_model_data: 1
+  key_5:
+    material: TRIPWIRE_HOOK
+    name: "&#fc6d14Универсальный ключ"
+    lore:
+      - ""
+      - " &fЭтим ключем можно открыть "
+      - " &fлюбую дверь. "
+      - ""
+    custom_model_data: 1

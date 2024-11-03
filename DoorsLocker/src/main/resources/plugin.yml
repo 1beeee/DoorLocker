@@ -1,0 +1,5 @@
+name: DoorsLocker
+version: '${project.version}'
+main: mc.beeee.doorslocker.Plugin
+api-version: '1.20'
+load: STARTUP
